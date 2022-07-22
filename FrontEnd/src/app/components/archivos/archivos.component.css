@@ -1,0 +1,20 @@
+.row{
+    padding: 20px;
+    
+}
+
+div{
+    background-color: rgb(255, 30, 0);
+    
+}
+
+h1,h3{
+    display: inline;
+    color: black;
+    font-size: 35px;}
+
+h2{  
+    color: black;
+    font-size: 25px; 
+    
+}
